@@ -1,10 +1,8 @@
 # AngularJS-Learning
-<<<<<<< HEAD
 Get started with AngularJS
 
 # Install Angular CLI because we use this to create project, generate application, library code...
 npm install -g @angular/cli
-=======
 
 One Paragraph of project description goes here
 
@@ -91,5 +89,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
->>>>>>> 0689c8a2a164953fd1320cf8cea3fc2a00d8e2a0
