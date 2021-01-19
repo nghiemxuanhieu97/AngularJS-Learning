@@ -1,14 +1,31 @@
 # AngularJS-Learning
 Get started with AngularJS
 
-# Install Angular CLI because we use this to create project, generate application, library code...
+# Install Angular CLI 
+Because we use this to create project, generate application, library code...
+```
 npm install -g @angular/cli
+```
 
-One Paragraph of project description goes here
+## Important Topic
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* Datatype: string, number, any...
+* Different between let and var
+* Declare a component
+* DOM & Component
+* Data binding: 
+  * {{}} Interpolation
+  * [property] = "value"
+  *  (event) = "function()" - click, keyup, moveout,  $event
+  * [(ng-model)] = "property" (Two-way binding) - Must import FormsModule
+  Template reference variable
+  Style biding
+  Class biding
+  Directive: đưa ra chỉ thị để Angular đổi template thành DOM
+  Có 3 loại directives:
+  * Component -> directive với 1 template
+  * Attribute directives -> Thay đổi hiển thị hoặc hành vi của DOM, component hoặc directive khác
+  * Structural directives -> Thêm bớt các DOM
 
 ### Prerequisites
 
